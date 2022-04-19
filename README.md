@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Reto de Platzi day by Akiarakira
 
-You can use the [editor on GitHub](https://github.com/Akiarakira/RetoPlatzi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Este fue un reto de Platzi que consistió en crear la primera página web.  Donde las técnologias utilizadas fueron HTML5 y CSS3.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fue una práctica para posicionar el layout utilizando CSS.
 
-### Markdown
+Unas imágenes del proyecto: ![image](https://user-images.githubusercontent.com/90627966/164109746-823593dd-7f73-4caa-b56c-10263fe5eb11.png)
+![image](https://user-images.githubusercontent.com/90627966/164109785-4df3dd61-e51d-4fe0-a926-b6e5ccaf0471.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Ver demo: https://akiarakira.github.io/RetoPlatzi/
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Akiarakira/RetoPlatzi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
